@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
               alignment: Alignment.topCenter,
               children: [
                 Image.network(
-                  "https://images.unsplash.com/photo-1553640850-ae4efec965fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+                  "https://plus.unsplash.com/premium_photo-1668883189152-d771c402c385?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
                   height: 400,
                   width: double.infinity,
                   fit: BoxFit.cover,
@@ -66,9 +66,9 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
-                  Text("Swimming in Gaza beach",style : TextStyle(fontSize: 20,fontWeight:FontWeight.bold ),),
+                  Text("Nusa penida",style : TextStyle(fontSize: 20,fontWeight:FontWeight.bold ),),
                   SizedBox(height: 14,),
-                  Text('dfskjgbjhdsagfkasdgjkfjkasghjkgkiuasghfjlkshdg.khilhriuolghjfsxzbgvjkahl;kishgdfskjgbjhdsagfkasdgjkfjkasghjkgkiuasghfjlkshdg.khilhriuolghjfsxzbgvjkahl;kishgdfskjgbjhdsagfkasdgjkfjkasghjkgkiuasghfjlkshdg.khilhriuolghjfsxzbgvjkahl;kishgdfskjgbjhdsagfkasdgjkfjkasghjkgkiuasghfjlkshdg.khilhriuolghjfsxzbgvjkahl;kishgdfskjgbjhdsagfkasdgjkfjkasghjkgkiuasghfjlkshdg.khilhriuolghjfsxzbgvjkahl;kishg'),
+                  Text('Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur'),
                   SizedBox(height: 20,),
                   Text("Pictures",style : TextStyle(fontSize: 20,fontWeight:FontWeight.bold ),),
                   SizedBox(height: 14,),
@@ -81,7 +81,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             borderRadius: BorderRadius.all(Radius.circular(10)),
                             image: DecorationImage(
                               image: NetworkImage(
-                                  "https://images.unsplash.com/photo-1553640850-ae4efec965fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"),
+                                  "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80"),
                               fit: BoxFit.fill,
                             ),
                           )),
@@ -95,7 +95,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             borderRadius: BorderRadius.all(Radius.circular(10)),
                             image: DecorationImage(
                               image: NetworkImage(
-                                  "https://images.unsplash.com/photo-1553640850-ae4efec965fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"),
+                                  "https://images.unsplash.com/photo-1590757825699-4844233cd768?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80"),
                               fit: BoxFit.fill,
                             ),
                           )),
@@ -109,7 +109,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             borderRadius: BorderRadius.all(Radius.circular(10)),
                             image: DecorationImage(
                               image: NetworkImage(
-                                  "https://images.unsplash.com/photo-1553640850-ae4efec965fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"),
+                                  "https://plus.unsplash.com/premium_photo-1668883189682-7212bebf2f5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"),
                               fit: BoxFit.fill,
                             ),
                           )),
@@ -123,7 +123,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             borderRadius: BorderRadius.all(Radius.circular(10)),
                             image: DecorationImage(
                               image: NetworkImage(
-                                  "https://images.unsplash.com/photo-1553640850-ae4efec965fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"),
+                                  "https://images.unsplash.com/photo-1641388587278-071c5527e4e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"),
                               fit: BoxFit.fill,
                             ),
                           )),
@@ -151,7 +151,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   SizedBox(height: 20,),
                   Row(
                     children: [
-                      Text("More in Gaza",
+                      Text("More in Bali",
                         style:TextStyle(fontSize: 20,fontWeight:FontWeight.bold,color: Colors.green ),
                       ),
                       Icon(Icons.arrow_forward_ios_rounded, color: Colors.green),
